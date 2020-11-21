@@ -1,0 +1,9 @@
+iproute2
+iputils-ping
+screen
+vim
+curl
+wget
+youtube-dl
+python3
+python3-pip
